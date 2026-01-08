@@ -9,10 +9,6 @@ Sistema profesional de cotización para impresión 3D en Perú.
 - Diseño glassmorphism moderno
 - Responsive (móvil y desktop)
 
-## 🔑 Credenciales
-- **Admin:** Usuario `Sintia` / Contraseña `2003`
-- **Invitado:** Acceso directo sin credenciales
-
 ## 💻 Tecnologías
 - HTML5
 - CSS3 (Glassmorphism, gradientes)
